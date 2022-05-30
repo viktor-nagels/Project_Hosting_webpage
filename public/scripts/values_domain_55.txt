@@ -1,0 +1,11 @@
+#!/bin/bash
+WEBID="web55"
+DOMAIN="nancy"
+MYSQL_USER_ENV="nancyt"
+MYSQL_PASSWORD_ENV="sdjklqds"
+SFTP_USERNAME="nancy"
+SFTP_PASSWORD="kqldsfjqdsfjklmfd"
+MYSQL_VERSION="none"
+PHP_VERSION="none"
+LARAVEL_VERSION="none"
+

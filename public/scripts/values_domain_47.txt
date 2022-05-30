@@ -1,0 +1,11 @@
+#!/bin/bash
+WEBID="web47"
+DOMAIN="viktornagels"
+MYSQL_USER_ENV="admin@admin.com"
+MYSQL_PASSWORD_ENV="admin123456789"
+SFTP_USERNAME="admin"
+SFTP_PASSWORD="admin123456789"
+MYSQL_VERSION="none"
+PHP_VERSION="none"
+LARAVEL_VERSION="none"
+

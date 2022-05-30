@@ -1,0 +1,11 @@
+#!/bin/bash
+WEBID="web48"
+DOMAIN="qdsfqdsfdfqsqdsfdqsf"
+MYSQL_USER_ENV="admin@admin.com"
+MYSQL_PASSWORD_ENV="admin"
+SFTP_USERNAME="qsdfqfqdqsfq"
+SFTP_PASSWORD="qdsfqdfqqfdsdqfs"
+MYSQL_VERSION="none"
+PHP_VERSION="none"
+LARAVEL_VERSION="none"
+

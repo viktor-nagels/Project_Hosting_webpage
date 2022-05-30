@@ -1,0 +1,11 @@
+#!/bin/bash
+WEBID="web44"
+DOMAIN="qdsdsfq"
+MYSQL_USER_ENV="admin@admin.com"
+MYSQL_PASSWORD_ENV="admin"
+SFTP_USERNAME="dqsf"
+SFTP_PASSWORD="qdsf"
+MYSQL_VERSION="none"
+PHP_VERSION="none"
+LARAVEL_VERSION="none"
+
